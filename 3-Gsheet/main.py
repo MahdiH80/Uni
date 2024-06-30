@@ -2,7 +2,7 @@ import gspread
 from google.oauth2.service_account import Credentials
 import streamlit as st
 import pandas as pd
-
+# نصب نیست نصب میکردم ولی بازم همون ارور میداد c++ از این روش رفتم چون گیر میداد به 
 # URL: https://docs.google.com/spreadsheets/d/1pApraLUoLFC9vAwnhWo5sCenXyZjjqH-joQ_rEs6ktQ/edit#gid=0
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
